@@ -66,7 +66,7 @@ The long-term objective is to build technology that helps people and organizatio
 
 ## `03 // ACTIVE SYSTEMS`
 
-### FRAUDTRACE CALL
+### SurakshaSetu
 
 An Android-first security concept designed to help people recognize potentially fraudulent calls through real-time warnings and explainable analysis.
 
@@ -76,7 +76,7 @@ An Android-first security concept designed to help people recognize potentially 
 - Privacy-conscious analysis
 - Transparent explanations instead of unexplained verdicts
 
-**Repository:** [Fraudtrace](https://github.com/jker24256-max/Fraudtrace)
+**Repository:** [SurakshaSetu](https://github.com/jker24256-max/SurakshaSetu)
 
 ### CTF COMPANION
 
