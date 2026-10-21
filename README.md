@@ -1,32 +1,46 @@
-# 👋 Hey, I'm Abdul Muhaymin Nawaz
+# 🃏 ABDUL MUHAYMIN NAWAZ
 
-### Founder & CTO @ The Technostic Group | Cybersecurity | AI | Systems Engineering
+### Founder & CTO @ [The Technostic Group](https://technosticsgroup.com/) · Cybersecurity · AI · Systems Engineering
 
-> **Praemonitus, Praemunitus.** — Forewarned is Forearmed.
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  WELCOME TO THE OPERATION                                    ║
+║  Security is serious. The process doesn't have to be boring. ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-I'm a cybersecurity enthusiast, founder, and builder interested in the intersection of **cybersecurity, artificial intelligence, software engineering, and next-generation computing**.
+> **Praemonitus, Praemunitus.**  
+> *Forewarned is forearmed.*
 
-I enjoy turning ambitious ideas into practical systems — from security-focused applications and intelligent detection tools to custom firmware, developer utilities, and experimental human-computer interfaces.
+I'm Abdul Muhaymin Nawaz — a cybersecurity enthusiast, founder, and builder operating at the intersection of **cybersecurity, artificial intelligence, software engineering, and next-generation computing**.
 
-I'm building toward a future where security is proactive, AI is useful and explainable, and technology works seamlessly around people.
+I like ambitious ideas, difficult systems, and problems that refuse to behave.
+
+My work ranges from security-focused applications and intelligent detection tools to custom firmware, developer utilities, and experimental human-computer interfaces. The objective is simple:
+
+> Build useful systems. Secure them properly. Keep learning before the next surprise arrives.
 
 - 🛡️ **Founder & CTO:** [The Technostic Group](https://technosticsgroup.com/)
 - 🔐 **Focus:** Cybersecurity, AI-powered security, application security, and security research
 - 🤖 **Exploring:** Intelligent agents, AI-assisted development, and explainable detection systems
 - ⚙️ **Building:** Security tools, custom firmware, developer systems, and experimental interfaces
 - 🌏 **Based in:** India
-- 💡 **Philosophy:** Build with purpose. Secure by design. Learn relentlessly.
+- 🧪 **Operating principle:** Secure by design. Curious by default. Paranoid when appropriate.
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/abdul-muhaymin-nawaz-6a3a043b3/)
 
 ---
 
-## 🧭 What I'm Working On
+## 🟣 `01 // THE OPERATION`
 
 ### 🛡️ The Technostic Group
 
 Building a cybersecurity-focused technology venture centered on security services, practical security engineering, and modern digital infrastructure.
 
-Website: [technosticsgroup.com](https://technosticsgroup.com/)
+**Website:** [technosticsgroup.com](https://technosticsgroup.com/)
+
+---
+
+## 🟢 `02 // ACTIVE EXPERIMENTS`
 
 ### 📞 FRAUDTRACE CALL
 
@@ -37,9 +51,11 @@ An Android-first security concept designed to help people recognize potentially 
 - Research into AI-generated and cloned-voice signals
 - Privacy-conscious analysis and transparent explanations
 
-Repository: [Fraudtrace](https://github.com/jker24256-max/Fraudtrace)
+**Repository:** [Fraudtrace](https://github.com/jker24256-max/Fraudtrace)
 
-### 🧠 CTF Companion
+---
+
+### 🧠 CTF COMPANION
 
 An AI-assisted cybersecurity learning and CTF environment focused on helping users understand challenges, investigate evidence, and develop structured problem-solving workflows.
 
@@ -47,6 +63,10 @@ An AI-assisted cybersecurity learning and CTF environment focused on helping use
 - Cloud-based reasoning with a local application architecture
 - Exploration of HexStrike MCP integration
 - Emphasis on controlled, authorized security testing
+
+The goal is not to hand over answers. The goal is to make the investigation sharper.
+
+---
 
 ### 💍 PROJECT AETHER
 
@@ -57,9 +77,15 @@ An experimental wearable-input project exploring a gesture-enabled ring as an in
 - Software-first prototyping
 - Optional NFC functionality
 
-### 💳 TTG Cardputer
+Small device. Strange interface. Potentially useful mischief.
+
+---
+
+### 💳 TTG CARDPUTER
 
 Exploring custom firmware and a more complete, operating-system-like experience for the M5Stack Cardputer ecosystem, with potential applications in portable utilities and personal technology.
+
+---
 
 ### 📈 AURUM AI
 
@@ -70,47 +96,47 @@ An experimental AI-driven quantitative research and paper-trading concept for In
 - Paper trading before any live-trading consideration
 - Exploration of AI infrastructure and open-source models
 
-*These are ongoing or exploratory projects; features, implementation status, and technical scope may evolve.*
+No reckless bets. No magic crystal ball. Just research, testing, and appropriately suspicious spreadsheets.
+
+> **Project status note:** These projects are ongoing or exploratory. Features, implementation status, and technical scope may evolve.
 
 ---
 
-## 🧰 Technology & Tools
-
-My interests span application development, cybersecurity, AI systems, and hardware experimentation.
+## 🧰 `03 // TOOLS OF THE TRADE`
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-7B2CBF?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-39FF14?style=for-the-badge&logo=kotlin&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-7B2CBF?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Web & Application Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=39FF14)
+![Next.js](https://img.shields.io/badge/Next.js-7B2CBF?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-39FF14?style=for-the-badge&logo=fastapi&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7B2CBF?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Cybersecurity & Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-7B2CBF?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge&logo=github&logoColor=white)
 
 ### AI, Automation & Hardware
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-7B2CBF?style=for-the-badge&logo=pytorch&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-39FF14?style=for-the-badge&logo=arduino&logoColor=black)
+![Android](https://img.shields.io/badge/Android-7B2CBF?style=for-the-badge&logo=android&logoColor=white)
 
 *These badges represent technologies relevant to my projects and areas of exploration, not a claim of production-level experience with every tool.*
 
 ---
 
-## 🔬 Areas of Interest
+## 🔬 `04 // AREAS OF INTEREST`
 
 - **Cybersecurity:** Application security, security testing, threat detection, and defensive security engineering
 - **Artificial Intelligence:** AI-assisted workflows, explainable systems, intelligent agents, and model evaluation
@@ -121,25 +147,25 @@ My interests span application development, cybersecurity, AI systems, and hardwa
 
 ---
 
-## 📊 GitHub at a Glance
+## 📊 `05 // THE DAMAGE REPORT`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jker24256-max&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jker24256-max&show_icons=true&theme=radical&hide_border=true&title_color=39FF14&icon_color=7B2CBF&text_color=FFFFFF" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jker24256-max&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jker24256-max&layout=compact&theme=radical&hide_border=true&title_color=39FF14&text_color=FFFFFF" alt="Most-used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jker24256-max&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=jker24256-max&theme=radical&hide_border=true&ring=7B2CBF&fire=39FF14&currStreakLabel=39FF14" alt="GitHub contribution streak" />
 </p>
 
 *Statistics and language rankings are generated by external services and may not reflect every repository or private contribution.*
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 `06 // JOIN THE CIRCUS`
 
 I'm interested in connecting with people who enjoy building meaningful technology, exploring security challenges, and turning ambitious ideas into working systems.
 
@@ -150,11 +176,16 @@ I'm interested in connecting with people who enjoy building meaningful technolog
 
 Whether you're interested in cybersecurity, AI engineering, collaborative projects, or simply exchanging ideas, feel free to connect.
 
+Just bring curiosity. The security mindset can be acquired later.
+
 ---
 
-<p align="center">
-  <i>Building systems. Exploring possibilities. Securing what matters.</i>
-</p>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  BUILD SYSTEMS. FIND WEAKNESSES. SECURE WHAT MATTERS.        ║
+║  KEEP THE CHAOS CONTAINED.                                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
   <b>Praemonitus, Praemunitus.</b>
